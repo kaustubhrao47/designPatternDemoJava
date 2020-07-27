@@ -21,6 +21,11 @@ JRE: 1.8.0
 * Run "SingletonTester.java" for Singleton Design Pattern or "AnimalTester.java" for Factory Design Pattern.
 * Output will be displayed in the console.
 
+## Download Links
+* Eclipse IDE: https://www.eclipse.org/downloads/packages/release/neon/3/eclipse-ide-java-ee-developers
+* Java Development Kit: https://www.oracle.com/java/technologies/javase/jdk12-archive-downloads.html
+* Java Runtime Environment: https://www.oracle.com/java/technologies/javase-jre8-downloads.html
+
 ## Contributing
 &nbsp;&nbsp; Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. <br/>
 &nbsp;&nbsp; Please make sure to update tests as appropriate.
